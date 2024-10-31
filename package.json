@@ -2,7 +2,7 @@
   "name": "ai-translate-code",
   "displayName": "Translate Code",
   "description": "Translate code to another programming language",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Zachey",
   "publisher": "Zachey",
   "icon": "icon.png",
