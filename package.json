@@ -1,9 +1,11 @@
 {
-  "name": "translate-code",
+  "name": "ai-translate-code",
   "displayName": "Translate Code",
   "description": "Translate code to another programming language",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Zachey",
+  "publisher": "Zachey",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -38,5 +40,9 @@
   },
   "dependencies": {
     "axios": "^1.7.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zachey01/vscode-translate-code.git"
   }
 }
